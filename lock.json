@@ -1,0 +1,1 @@
+{"mqtt_client_id": "001122334455", "mqtt_transport": "tcp", "mqtt_qos": 2, "mqtt_perm_pass": "1234", "mqtt_temp_pass": "abcd", "mqtt_temp_active": 0, "locked": 0}
